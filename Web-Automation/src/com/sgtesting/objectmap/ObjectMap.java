@@ -82,5 +82,4 @@ public class ObjectMap {
 		}
 		return by;
 	}
-
 }
